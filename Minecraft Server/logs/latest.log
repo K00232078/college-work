@@ -1,0 +1,23 @@
+[09:09:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:09:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:09:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:09:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:09:28] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[09:09:28] [Server thread/INFO]: Loading properties
+[09:09:28] [Server thread/INFO]: Default game type: SURVIVAL
+[09:09:28] [Server thread/INFO]: Generating keypair
+[09:09:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:09:29] [Server thread/INFO]: Using default channel type
+[09:09:30] [Server thread/INFO]: Preparing level "world"
+[09:09:30] [Server thread/INFO]: Reloading ResourceManager: Default
+[09:09:30] [Server thread/INFO]: Loaded 6 recipes
+[09:09:30] [Server thread/INFO]: Loaded 811 advancements
+[09:09:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:09:32] [Server thread/INFO]: Preparing spawn area: 0%
+[09:09:32] [Server thread/INFO]: Preparing spawn area: 0%
+[09:09:32] [Server thread/INFO]: Preparing spawn area: 0%
+[09:09:32] [Server thread/INFO]: Preparing spawn area: 0%
+[09:09:33] [Server thread/INFO]: Preparing spawn area: 0%
+[09:09:33] [Server thread/INFO]: Preparing spawn area: 0%
+[09:09:33] [Server thread/INFO]: Time elapsed: 2777 ms
+[09:09:33] [Server thread/INFO]: Done (3.603s)! For help, type "help"
